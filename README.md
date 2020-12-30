@@ -4,6 +4,11 @@ Lovely Choco
 What's Up Wumpus  
 Wumpus & Co: Winter Fun  
 
+**Coming Soon**  
+Clyde Winter  
+Hello Wumpus  
+Wumpus Nitro Elite  
+
 # Where are the others?
 I could not download the other sticker packs due to them being Lottie JSONs instead of APNGs.  
 They are higher quality so Discord uses Lottie JSONs to reduce on file size.  
