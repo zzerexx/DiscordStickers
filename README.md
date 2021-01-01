@@ -3,11 +3,12 @@ Among Us
 Lovely Choco  
 What's Up Wumpus  
 Wumpus & Co: Winter Fun  
+Clyde Winter  
 
 **Coming Soon**  
-Clyde Winter  
 Hello Wumpus  
 Wumpus Nitro Elite  
+*Converting these to GIFs take a while...*  
 
 # Where are the others?
 I could not download the other sticker packs due to them being Lottie JSONs instead of APNGs.  
