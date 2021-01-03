@@ -6,8 +6,9 @@ Wumpus & Co: Winter Fun
 Clyde Winter (BUGGY)  
 
 **Update**  
-Converted all the Clyde Winter stickers. The face is transparent for whatever reason but that's how it converted so whatever.  
+Converted all the Clyde Winter stickers. The face is transparent for some reason but that's how it converted so whatever.  
 If you want to convert them yourself, download **Clyde Winter Lottie.zip** and convert them here: https://lottiefiles.com/lottie-to-gif  
+I used **#ffffff00** and **300x300** Resolution.
 
 **Coming Soon**  
 Hello Wumpus  
