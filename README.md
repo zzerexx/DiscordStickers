@@ -7,7 +7,7 @@ Clyde Winter (BUGGY)
 House Party  
 Mallow The Rascal  
 
-**Update Jan 10, 2021**  
+# Update Jan 10, 2021  
 Added new *House Party* Stickers  
 Added new *Mallow The Rascal* Stickers & Lotties  
 
