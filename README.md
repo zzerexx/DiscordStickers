@@ -1,11 +1,12 @@
 # Discord Stickers
 Among Us  
+Clyde Winter  
+Graggle The Brawler  
+House Party  
 Lovely Choco  
+Mallow The Rascal  
 What's Up Wumpus  
 Wumpus & Co: Winter Fun  
-Clyde Winter (BUGGY)  
-House Party  
-Mallow The Rascal  
 
 # Updates  
 **January 10, 2021**  
