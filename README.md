@@ -4,11 +4,13 @@ Lovely Choco
 What's Up Wumpus  
 Wumpus & Co: Winter Fun  
 Clyde Winter (BUGGY)  
+House Party  
+Mallow The Rascal  
 
 **Update**  
 Converted all the Clyde Winter stickers. The face is transparent for some reason but that's how it converted so whatever.  
 If you want to convert them yourself, download **Clyde Winter Lottie.zip** and convert them here: https://lottiefiles.com/lottie-to-gif  
-I used **#ffffff00** and **300x300** Resolution.
+I used **#ffffff00** and **200x200** Resolution.
 
 **Coming Soon**  
 Hello Wumpus  
