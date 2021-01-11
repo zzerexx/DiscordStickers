@@ -21,6 +21,7 @@ Wumpus Nitro Elite
 *Converting these to GIFs take a while...*  
 If you want to convert them yourself, download the Lotties and convert them here: https://lottiefiles.com/lottie-to-gif  
 I used **#ffffff00** and **200x200** Resolution.  
+If you want the right size, go to https://ezgif.com/resize and resize it to **150x150**.
 
 # Where are the others?
 I could not download the other sticker packs due to them being Lottie JSONs instead of APNGs.  
