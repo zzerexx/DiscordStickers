@@ -15,6 +15,7 @@ Added new *Mallow The Rascal* Stickers & Lotties
 **Coming Soon**  
 Hello Wumpus  
 Wumpus Nitro Elite  
+
 *Converting these to GIFs take a while...*  
 If you want to convert them yourself, download the Lotties and convert them here: https://lottiefiles.com/lottie-to-gif  
 I used **#ffffff00** and **200x200** Resolution.  
