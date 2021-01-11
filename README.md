@@ -1,10 +1,10 @@
 # Discord Stickers
 Among Us  
 Clyde Winter  
-Graggle The Brawler  
-House Party  
+Graggle The Brawler (Lottie) **NEW**  
+House Party  **NEW**  
 Lovely Choco  
-Mallow The Rascal  
+Mallow The Rascal  **NEW**  
 What's Up Wumpus  
 Wumpus & Co: Winter Fun  
 
