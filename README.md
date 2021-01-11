@@ -11,6 +11,7 @@ Mallow The Rascal
 **January 10, 2021**  
 Added new *House Party* Stickers  
 Added new *Mallow The Rascal* Stickers & Lotties  
+Added new *Graggle The Brawler* Lotties  
 
 **Coming Soon**  
 Hello Wumpus  
@@ -24,6 +25,5 @@ I used **#ffffff00** and **200x200** Resolution.
 I could not download the other sticker packs due to them being Lottie JSONs instead of APNGs.  
 They are higher quality so Discord uses Lottie JSONs to reduce on file size.  
 The plugin I use to download these cannot convert these to Gifs. (unfortunately)  
-They are free for users with Nitro anyways. (except for Clyde Winter)  
 
 I'll try to convert them all later.  
